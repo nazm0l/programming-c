@@ -22,5 +22,8 @@ int main()
             printf("Number is Negative");
             break;
         }
+        break;
+    default:
+        printf("Enter valid number");
     }
 }

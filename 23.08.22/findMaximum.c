@@ -14,5 +14,8 @@ int main()
         break;
     case 0:
         printf("%d is Big", num2);
+        break;
+    default:
+        printf("Enter valid number");
     }
 }
